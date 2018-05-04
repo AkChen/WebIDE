@@ -1,0 +1,16 @@
+body {
+  min-height: 100vh;
+  color: var(--color, #aaa);
+  background-color: var(--background, #000);
+  padding: 10px;
+  box-sizing: border-box;
+  --color: lime;
+}
+pre, body {
+  margin: 0;
+  margin: 0;
+}
+pre, .cmd {
+  line-height: 14px;
+  font-size: 12px;
+}
